@@ -5,7 +5,7 @@
 - identified substantive areas that we want to learn more about and began identifying who we'd want to speak with to learn more about these areas:
   - how shared services come to be
   - how users understand and feel about shared services
-  - where initiatives for centralized admin/it in agencies been successful/failed
+  - where initiatives for centralized admin/IT in agencies have been successful/failed
   - what are the prominent circumstances under which centralization typically happens (data center consolidation? cloud migration? What else? Is there one that is particularly important?
   
 - scheduled some upcoming conversations
