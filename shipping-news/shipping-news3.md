@@ -6,7 +6,7 @@
   - how shared services come to be
   - how users understand and feel about shared services
   - where initiatives for centralized admin/IT in agencies have been successful/failed
-  - what are the prominent circumstances under which centralization typically happens (data center consolidation? cloud migration? What else? Is there one that is particularly important?
+  - the prominent circumstances under which centralization typically happens (data center consolidation? cloud migration? What else? Is there one that is particularly important?
   
 - scheduled some upcoming conversations
 - began learning about the Council of Inspectors General on Integrity & Efficiency (CIGIE) and their views about benefits/risks of shared services
