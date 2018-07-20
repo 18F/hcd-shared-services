@@ -12,7 +12,7 @@
 - began learning about the Council of Inspectors General on Integrity & Efficiency (CIGIE) and their views about benefits/risks of shared services
 
 ### What we learned / began thinking about
-- shared services are often written about in terms of the outcomes that they produce, rather than what they actually are operationally. We want to be clear about the characteristics of the shared services that we choose to focus becuase doing so will allow us to talk about design - of the _thing_ not the _outcome_   
+- shared services are often written about in terms of the outcomes that they produce, rather than what they actually are operationally. We want to be clear about the characteristics of the shared services on which we choose to focus because doing so will allow us to talk about design - of the _thing_ not the _outcome_   
 - we began thinking about the potential connections between shared services implementation and [FITARA](https://management.cio.gov/) and how HCD for shared services might support compliance with FITARA 
 - related to FITARA, we're wondering how often shared services initiatives go hand in hand with data center consolidations
 
