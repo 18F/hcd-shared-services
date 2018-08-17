@@ -1,4 +1,4 @@
-# Human Centered Design for Shared Services
+# Human Centered Design for IT Centralization Efforts
 
 ## Project Description
 Through this project, we will explore where the opportunities lie to establish human centered design practices in efforts to develop centralized administrative and IT services.  
