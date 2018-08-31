@@ -1,14 +1,25 @@
 # Human Centered Design for IT Centralization Efforts
 
 ## Project Description
-Through this project, we will explore where the opportunities lie to establish human centered design practices in efforts to develop centralized administrative and IT services.  
+
+  
+How might federal agencies design centralized services to produce value for their agencies and help rather than burden their teams? This question is at the heart of what we are doing with this project.
+
+For the past two years, 18F has been has been helping agencies approach this question - and a large part of our work has been around understanding the needs of the intended customer base. Although every project has unique issues, we’ve consistently found that involving users in the design process mitigates risk.
+
+Through this project, we will use outcomes from past 18F consulting engagements to surface ways in which human centered design methods can mitigate risks associated with centralizing IT services across distinct teams. We’ve analyzed real scenarios in which our clients’ attempts to centralize didn’t work as hoped. And we’ve spoken to user groups to understand the ways that centralization will impact their work. We’ve collected many insights about how this plays out, and we want to share them with others.
+
+Our focus is at the agency level and our intended audience is CIOs who set their agencies’ modernization strategies. Our goal is not to create a checklist or framework, but instead to introduce considerations for anyone making decisions around centralizing IT within their agency. 
+
 
 ### Why this project?
-18F has handled numerous [path analysis engagments](https://18f.gsa.gov/how-we-work/) with federal agency teams tasked with developing shared services within their own agencies (also known as "intra-agency shared services"). What we've seen in these engagements is that it's common for there to be distance between those that decide upon shared service implementation and the intended users of those services. When we've been able to bridge that distance - by applying human centered design methods - we've been able to help our agency partners understand where these proposed services will bring value for their intended users. We've also been able to help them see where they are not yet set up for success - because centralizing IT functions can involve change that the agency might not be ready for. Unfortunately, many agencies that we have worked with have come to us only after having experienced first hand the burdens of having innovation projects not work out as expected. We have watched how human centered design can mitigate many of the risks that are inherent in starting a new service and we want to spread the practice in the context of intra-agency shared services.
 
-Shared services have been on the rise in government for close to a decade and The 2018 President's Management Agenda lists shared services as [a prioritized goal](https://www.performance.gov/CAP/CAP_goal_5.html). We anticipate growing efforts to design and implement shared services in government and we want to play a role in mitigating the risks that we've seen come from applying older methods of implementation that do not involve users in the process. While 18F offers consulting services for those agencies seeking more hands on guidance, we want to do what we can to also make resources available to those in government that we never get a chance to work with directly. 
+Because we anticipate growing efforts across government agencies to move towards more centralized models of IT services. 18F offers consulting services for agencies seeking more hands-on guidance, but we also want to make resources available to those in government who we cannot work with directly. It is our belief that making resources available to all agencies can make them more efficient in creating their service strategies, more strategic in improving the work of agency staff, and more powerful customers for vendors who assist with or provide the services.
 
+### Funding
 Funding for this project comes from [10x](https://10x.gsa.gov). We're currently in our second phase of funding. You can read more about the different phases of 10x funding [here](https://10x.gsa.gov/the-10x-process/).
+
+*Note that this project is on hold during September and October. We’ll pick up again in November and anticipate releasing a final report by the end of 2018.
 
 
 ## Team
@@ -17,25 +28,6 @@ Funding for this project comes from [10x](https://10x.gsa.gov). We're currently 
 - James Hupp, Content Design [@jameshupp](https://github.com/jameshupp) 
 - Aviva Oskow, Visual and UX design [@AvivaOskow](https://github.com/AvivaOskow)
 
-## Budget
-
-[Burn Doc](https://docs.google.com/spreadsheets/d/1ZpWxXaTmRrxELKCUNustF5L1z7QWg_CuNjpk0xbG098/edit#gid=70840275)
-
-## 18F Team Process
-
-- **Stand-ups**: Daily in Slack, [#10x-shrd-srvcs-design][slack-channel], async + at the start of each of our days
-- **Co-working**: Daily in Hangouts / Meet, 1 hour
-- **Shipping News**: Update document during the week, submit on Fridays. You can
-  find all the shipping news documents in the [`shipping-news`
-  directory](./shipping-news).
-- **Tracking work**: [Github Projects](https://github.com/18F/hcd-shared-services/projects)
-- **Retrospectives**: Bi-weekly
-
-Read more about the Team Process in the [TeamProcess.md](TeamProcess.md) documentation.
-
-[slack-channel]: https://gsa-tts.slack.com/10x-shrd-srvcs-design
-
-## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
 
@@ -50,3 +42,4 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 > All contributions to this project will be released under the CC0 dedication.
 > By submitting a pull request, you are agreeing to comply with this waiver of
 > copyright interest.
+
